@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Valerie
 
-<!--
-**valerie035/valerie035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎶 I'm a musician and educator who found a deep love for data, tech, and the power they hold to make meaningful change.
 
-Here are some ideas to get you started:
+I’m especially passionate about:
+- 🌍 Equity, opportunity, and access in education and tech  
+- 🎓 Making data + learning approachable and empowering  
+- 🧠 Blending creativity and analysis—music and code live side by side in my world  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools I Use
+Excel / Sheets • SQL • Looker • Domo • Tableau • Deepnote • Python • Jupyter
+
+---
+
+### 🌱 Currently...
+- Currently diving deeper into **AI + data storytelling**  
+- Building a long-held dream blending healing, music, equity, and tech  
+- Exploring dashboards that tell human-centered stories  
+
+---
+
+### 🤝 Let’s Connect
+📫 [LinkedIn](https://www.linkedin.com/in/valerie-witt)
+
+Thanks for stopping by!
